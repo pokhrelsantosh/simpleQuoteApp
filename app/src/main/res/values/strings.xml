@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuoteAppUsingImplicitIntent</string>
+    <string name="quotesuccess">SUCCESS QUOTE</string>
+    <string name="quote">It\'s OK to have your eggs in one basket as long as you control what happens to that basket.\n
+    I could either watch it happen or be a part of it.</string>
+</resources>
